@@ -1,0 +1,30 @@
+#testimonials{
+	width: 400px;
+	height: 150px;
+  padding: 10px;
+	background: #EBEBEB;
+	border-radius:12px;
+}
+#testimonials li{ 
+  display:none;
+}
+#testimonials ul{
+  list-style:none;
+}
+#testimonials p.author{
+	  color: #00ACEE;
+    font-size: 16px;
+    font-style: italic;
+    text-align: right;
+	  margin:10px;
+}
+#testimonials p.author a,
+#testimonials p.author a:hover,
+#testimonials p.author a:visited{
+	color:#FF6400;
+}
+blockquote {
+  background: url(https://dl.dropbox.com/u/96099766/RotatingTestimonial/open-quote.png) 0 0 no-repeat;
+  font-size: 24px;
+  padding: 10px 0 10px 50px;
+}

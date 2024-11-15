@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: calibri;
+	src:url(CALIBRI.TTF);
+	font-style:oblique;
+}
+@font-face {
+    font-family: calibrib;
+	src:url(CALIBRIB.TTF);
+	font-style:oblique;
+}
